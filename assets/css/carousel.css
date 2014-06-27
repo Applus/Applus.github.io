@@ -37,7 +37,7 @@ body {
 
 /* Carousel base class */
 .carousel {
-  height: 400px;
+  height: 710px;
   margin-bottom: 60px;
 }
 /* Since positioning the image, we need to help out the caption */
@@ -169,10 +169,10 @@ body {
   }
   
 .carousel {
-    height: 600px;
+    height: 710px;
   }
   .carousel .item {
-      height: 600px;
+      height: 710px;
   }
 }
 
