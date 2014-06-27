@@ -10,7 +10,7 @@ markdown: rdiscount
 # translation tags
 t:
   ita:
-    home:  "Home"
+    home:  "Hme"
     about: "About"
     developer : "Sviluppatori"
     documentation : "Documentazione"
